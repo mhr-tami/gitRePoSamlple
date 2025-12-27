@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.environmentChangesIndicator": "warnonly",
+    "terminal.integrated.shellIntegration.showCommandGuide": true,
+    "markdown.preview.breaks": false,
+    "markdown.preview.typographer": true
+}
